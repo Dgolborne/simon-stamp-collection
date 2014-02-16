@@ -3,4 +3,4 @@ Simon's Stamp Collection App
 
 #About Simon
 
-Stuff about Simon's Stamps here...
+The New York Times rages "This is a stamp collection for the ages!"
